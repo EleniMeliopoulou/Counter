@@ -5,7 +5,7 @@ This is a simple colunter built with React + Vite. The user can increment, decre
 ---
 
 ## Technologies Used
-* *Front-End:*
+* **Front-End:**
     * React with Vite 
     * CSS 
 
